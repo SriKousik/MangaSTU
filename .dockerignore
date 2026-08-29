@@ -1,0 +1,13 @@
+.git
+.gitignore
+.github
+node_modules
+mangastu-web/node_modules
+mangastu-web/dist
+dist
+*.tmb
+*.tachibk
+*.gz
+*.log
+*.tmp
+.DS_Store
